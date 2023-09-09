@@ -20,4 +20,4 @@
 
 
 A quick tip, run ```ping IP ADDRESS```  on your host machine to verify if connection is being allowed
-![Screenshot 2023-09-09 170131](https://github.com/Lachiecodes/Azure-Honeypot-Configuration/assets/138475757/ffa7c1ff-d97e-45ae-a2c2-bea65afffe79)
+![Screenshot 2023-09-09 170131](https://github.com/Lachiecodes/Azure-Honeypot-Configuration/assets/138475757/b9ebb386-db35-4ef2-add5-d55d344fb0f0)
