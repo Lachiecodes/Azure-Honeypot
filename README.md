@@ -1,4 +1,4 @@
-# Creating-Azure-Honeypot
+# Configuring-Azure-Honeypot
 <h2>Configuring Honeypot VMs in Azure</h2>
 
 ![image](https://github.com/Lachiecodes/Azure-Honeypot/assets/138475757/6e5d77fc-47ce-4617-a90c-a40cc59a19a4)
