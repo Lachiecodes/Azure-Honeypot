@@ -16,8 +16,8 @@
 - Go back to Azure and go to Network Security Groups
 - For each VMs NSG, Add a new rule to allow all inbound connections to all ports. Set the priority to the lowest one to ensure this rule will be followed first.
 - A simple, but effective Azure honeypot has been configured!
+![Screenshot 2023-09-09 164011](https://github.com/Lachiecodes/Azure-Honeypot-Configuration/assets/138475757/c101e5af-6a2f-4515-a4bb-b9c8d683a0ae)
 
-![NSGAllowALL](https://i.imgur.com/Q850lM4.png)
 
-A quick tip, run ping -t [vm's ip address] on your host machine to verify if connection is being allowed
-![ping](https://i.imgur.com/MMibipV.png)
+A quick tip, run ```ping IP ADDRESS```  on your host machine to verify if connection is being allowed
+![Screenshot 2023-09-09 170131](https://github.com/Lachiecodes/Azure-Honeypot-Configuration/assets/138475757/ffa7c1ff-d97e-45ae-a2c2-bea65afffe79)
